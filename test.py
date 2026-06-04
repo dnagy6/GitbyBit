@@ -7,3 +7,5 @@ Level 1 complete
 # Level 4 complete
 # Level 5 complete
 # Level 6 complete
+# Level 7 complete
+

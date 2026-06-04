@@ -6,3 +6,4 @@ Level 1 complete
 # Level 3 complete
 # Level 4 complete
 # Level 5 complete
+# Level 6 complete
